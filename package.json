@@ -1,0 +1,39 @@
+{
+    "name": "BroonksBot",
+    "version": "1.8.3",
+    "description": "A bot mais foda.",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node index.js"
+    },
+    "keywords": [],
+    "author": "PlayBoy#7777",
+    "license": "AnimesWorld Studios",
+    "dependencies": {
+        "@discordjs/opus": "^0.8.0",
+        "@discordjs/voice": "^0.11.0",
+        "axios": "^0.27.2",
+        "canvas": "^2.9.3",
+        "colors": "^1.4.0",
+        "cpu-stat": "^2.0.1",
+        "discord-canvas-easy": "^3.0.1",
+        "discord.js": "^13.6.0",
+        "dominant-color": "^0.0.1",
+        "dotenv": "^16.0.1",
+        "fs": "^0.0.1-security",
+        "generate-password": "^1.7.0",
+        "glob": "^7.2.0",
+        "japi.rest": "^1.0.1",
+        "milisegundos": "^1.0.5",
+        "milliseconds": "^1.0.3",
+        "moment": "^2.29.4",
+        "ms": "^2.1.3",
+        "node-canvas-with-twemoji-and-discord-emoji": "^1.2.1",
+        "quick.db": "^7.1.3",
+        "smartestchatbot": "^2.0.3",
+        "superagent": "^7.1.6",
+        "timestamp": "^0.0.1",
+        "twemoji-parser": "^14.0.0"
+    }
+}
